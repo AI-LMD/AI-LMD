@@ -7,9 +7,8 @@
 
 - 📝 I regularly write articles on [https://blog.csdn.net/2301_77897903](https://blog.csdn.net/2301_77897903)
 
-- 📫 How to reach me **abllmd001@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:**abllmd001@gmail.com**</h3>
 <p align="left">
 </p>
 
